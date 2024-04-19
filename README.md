@@ -43,8 +43,4 @@ This program is a simple inventory management system for a book shop. It allows 
 
 [SIVARISHI B]
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
